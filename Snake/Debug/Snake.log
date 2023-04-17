@@ -1,0 +1,4 @@
+﻿  Snake.cpp
+E:\C++\Проекти с++\Snake\Snake\Snake\Snake.cpp(167,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\C++\Проекти с++\Snake\Snake\Snake\Snake.cpp(163): warning C4715: 'Exit': not all control paths return a value
+  Snake.vcxproj -> E:\C++\Проекти с++\Snake\Snake\Debug\Snake.exe
